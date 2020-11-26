@@ -1,10 +1,3 @@
-# create Producer properties
-
-# create the Producer
-
-# send data
-
-
 from kafka import KafkaProducer
 from kafka.errors import KafkaError
 
